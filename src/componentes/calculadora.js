@@ -1,17 +1,5 @@
 import React from 'react';
 
-// class Buscador {
-//     render(props) {
-//         return (
-            // <form>
-            //     <div>
-            //         <input type="text" placeholder="Buscar imagen" />
-            //     </div>
-            // </form>
-//         );
-//     }
-// }
-
 function Calculadora() {
     return (
         <React.Fragment>
